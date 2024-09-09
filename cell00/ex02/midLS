@@ -1,0 +1,3 @@
+mkdir midLS
+echo "ls -m | grep -v '^\.'" > midLS
+cat midLS
